@@ -1,0 +1,39 @@
+﻿Output: 
+Inserting States!: 
+New Jersey added: true
+New York added: true
+Pennsylvania added: true
+Delaware added: true
+Maryland added: true
+Connecticut added: true
+New Jersey added: false
+
+
+Printing states:
+State: Pennsylvania, Coast Length: 0, State Bird: Ruffled Grouse
+State: Connecticut, Coast Length: 96, State Bird: Robin
+State: Maryland, Coast Length: 31, State Bird: Oriole
+State: New Jersey, Coast Length: 130, State Bird: Eastern Goldfinch
+State: Delaware, Coast Length: 28, State Bird: Blue Hen
+State: New York, Coast Length: 127, State Bird: Eastern Bluebird
+
+
+Number of elements in HashMap: 6
+
+
+Printing all elements in HashMap:
+State: State: Pennsylvania, Coast Length: 0, State Bird: Ruffled Grouse, Governor: Governor Name: Shapiro,Age: 49
+State: State: Connecticut, Coast Length: 96, State Bird: Robin, Governor: Governor Name: Lamont,Age: 69
+State: State: Maryland, Coast Length: 31, State Bird: Oriole, Governor: Governor Name: Moore,Age: 44
+State: State: New Jersey, Coast Length: 130, State Bird: Eastern Goldfinch, Governor: Governor Name: Murphy,Age: 65
+State: State: Delaware, Coast Length: 28, State Bird: Blue Hen, Governor: Governor Name: Carney,Age: 66
+State: State: New York, Coast Length: 127, State Bird: Eastern Bluebird, Governor: Governor Name: Hochul,Age: 64
+
+
+Governor of New York: Governor Name: Hochul,Age: 64
+
+
+Governor of New Jersey: Governor Name: Murphy,Age: 65
+
+
+Rhode Island does not exist in the HashMap.
